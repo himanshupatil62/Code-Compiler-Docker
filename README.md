@@ -86,7 +86,6 @@ Want to improve this project? Follow these steps:
 ---
 
 🔥 **Star this repo** ⭐ if you like this project! 🚀
-open-source community** for making containerization easy!
 
 ---
 
